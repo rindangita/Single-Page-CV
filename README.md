@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Single Page CV</title>
+</head>
+<body>
+    <hr>
+    <p>____________________________________________</p>
+    <h1>Rindang Gita Hapsari</h1>
+    <p style="color: green;">Junior Frontend Developer</p>
+    <p>123 Jl. Damai <br>
+        Jakarta, ST 12345 <br>
+        (123) 456-7890 <br>
+        no_reply@example.com <br>
+    </p>
+
+    <p style="color: green;">Skilss</p>
+    <p>
+        HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design, <br>
+        Technical Writing, Presentation
+    </p>
+
+    <p style="color: green;">Education</p>
+    <p style="color: blue;">Universitas Indonesia, Depok - Undergraduated</p>
+        Month 2023 to Month 2027 <br>
+        Join Organization BEM at University
+    </p>
+
+    <p style="color: green;">Experience</p>
+    <p style="color: blue;">Company Name, Location - Job Title</p>
+    <p>Month 20xx to Mon 20xx</p>
+    <ul>
+        <li>List of Achievement</li>
+        <li>List of Achievement</li>
+        <li>List of Achievement</li>
+    </ul>
+    <p>Skills : List of Skill used or grained at this company</p>
+
+    <p style="color: green;">Across the Internet</p>
+    <a href="https://www.linkedin.com/in/rindangita/">Linkedin</a>
+
+
+
+
+</body>
+</html>
